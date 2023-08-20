@@ -1,6 +1,6 @@
 # FullStack Social Media App
 
-# Explanation of the App:
+### Explanation of the App:
 
 Create a user, upload photos, CRUD posts, see posts of other users,
 add new friends, see other users and their information,
